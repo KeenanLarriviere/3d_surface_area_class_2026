@@ -15,7 +15,7 @@ outputs.
 ├─ raw_scans/
 ├─ processed_stl_models/
 ├─ scripts/
-└─ ─ output/
+└ output/
 ```
 
 ### Directory Descriptions

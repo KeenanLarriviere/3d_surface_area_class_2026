@@ -12,10 +12,10 @@ outputs.
 
 ```
 3d_surface_area_class_2026/
-├── raw_scans/
-├── processed_stl_models/
-├── scripts/
-└─output/
+├─ raw_scans/
+├─ processed_stl_models/
+├─ scripts/
+└─ ─ output/
 ```
 
 ### Directory Descriptions
